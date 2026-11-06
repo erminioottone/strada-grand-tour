@@ -6,7 +6,7 @@
     {
       "binding": "DB",
       "database_name": "strada-races",
-      "database_id": "00000000-0000-4000-8000-000000000000",
+      "database_id": "e389613e-aee5-4e6c-be19-cd54156782aa",
       "migrations_dir": "drizzle"
     }
   ],
